@@ -8,3 +8,6 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
 
 #EXTINF:-1,GLOBO
 http://test.sv01.pw:80/jRAIB4SaMs/3DTxVbDJVZ/8616
+
+#EXTINF:-1,RECORD
+https://d2ntpk14ee3ogg.cloudfront.net//hls1/recordsp.m3u8?
