@@ -1,3 +1,7 @@
+#EXTM3U
 
+#EXTINF:-1,AGRO BRASIL http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-http://50.7.186.123:8081/live/44_2/chunks.m3u8?nimblesessionid=6843701&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDE5IDM6MjE6MDMgQU0maGFzaF92YWx1ZT11bXdyZURwOE1tZXFaVFVmVW9EWDB3PT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj05
+#EXTINF:-1,REDE TV http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+
+#EXTINF:-1,TELECINE http://50.7.186.123:8081/live/44_2/chunks.m3u8?
